@@ -21,10 +21,7 @@
 - 📫 How to reach me **loharavadhut09@gmail.com**
 
 
-<div align="center">
 
-![snake svg](https://github.com/avadhutlohar/avadhutlohar/blob/output/github-contribution-grid-snake.svg)
-</div>
 
  ## 🛠 &nbsp; Languages and Tools
 <p align="left">
