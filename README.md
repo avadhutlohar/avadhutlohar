@@ -10,13 +10,13 @@
 
 ### 👨🏻‍ &nbsp;About Me
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://avadhutlohar.in](https://avadhutlohar.in)
 
 - 📝 I regularly write articles on [https://hashnode.com/@Avadhut09](https://hashnode.com/@Avadhut09)
 
-- 💬 Ask me about **HTML , CSS , JavaScript ❤**
+- 💬 Ask me about **HTML , CSS , JavaScript , React ❤**
 
 - 📫 How to reach me **loharavadhut09@gmail.com**
 
@@ -66,8 +66,8 @@
 
 ### 📫 &nbsp;Connect with Me
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/loharavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/loharavi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/avadhut-lohar-83391915b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avadhut-lohar-83391915b/" height="30" width="40" /></a>
+<a href="https://twitter.com/LoharAvadhut__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/avadhut-lohar-63618329b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
 </p>
 
 [![gmail](https://img.shields.io/badge/-loharavadhut09@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:loharavdhut09@gmail.com)
