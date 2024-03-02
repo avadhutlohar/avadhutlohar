@@ -77,13 +77,6 @@
 <br/>
 
 
-###
-
-<img src="https://raw.githubusercontent.com/avadhutlohar/avadhutlohar/output/snake.svg" alt="Snake animation" />
-
-###
-
-
 ### 📫 &nbsp;Connect with Me
 <p align="left">
 <a href="https://twitter.com/LoharAvadhut__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
