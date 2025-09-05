@@ -6,7 +6,7 @@
 ###
 
 <h1 align="center">Hi 👋, I'm Avadhut Lohar</h1> 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer </h3>
 
 <img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/avadhutlohar/avadhutlohar/main/giphy.webp">
 
@@ -80,7 +80,7 @@
 ### 📫 &nbsp;Connect with Me
 <p align="left">
 <a href="https://twitter.com/LoharAvadhut__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/avadhut-lohar-63618329b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/avadhut-lohar-83391915b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
 </p>
 
 [![gmail](https://img.shields.io/badge/-loharavadhut09@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:loharavdhut09@gmail.com)
