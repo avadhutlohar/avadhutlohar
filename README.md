@@ -12,8 +12,7 @@
 - 🌱 Currently building: **SOC Home Lab** with Wazuh SIEM + custom detection rules
 - 📍 Based in **Pune, India**
 - 💬 Ask me about **SIEM, EDR/XDR, Threat Intelligence, Cloud Security**
-- 📫 Reach me at **loharavadhut09@gmail.com**
-
+- 📫 Reach me at **https://avadhutsec.vercel.app/**
 ---
 
 ## 🛠️ &nbsp;Security Tools & Platforms
